@@ -1,0 +1,92 @@
+.link{
+    color: aqua;
+    clear: both;
+    width: 330px;
+    height: 20px;
+    border: 2px solid #ccffaa;
+    margin-top: 10px;
+    margin-left: 520px;
+    padding-left: 15px;
+}
+.image{
+    float: left;
+    margin-top: 20px;
+    width: 780px;
+    border: 2px solid #ccffaa ;
+}
+.date{
+    float: right;
+    margin-right: 65px;
+    margin-top: 20px;
+    color: #1C86DC;
+}
+.number{
+    padding-left: 100px;
+}
+.comment{
+    width: 530px;
+    border: 2px solid #ccffaa;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 303px;
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
+}
+.commentText{
+    color: #1C86DC;
+    width: 340px;
+    height: 130px;
+    max-width: 410px;
+    max-height: 198px;
+
+}
+.buttomRecomment{
+    background-color: #AEE6EC;
+    margin-top: 15px;
+    border-radius: 10px;
+    border: none;
+    height: 30px;
+    cursor: pointer;
+}
+.buttonDelete{
+    background-color: #AEE6EC;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none;
+    height: 30px;
+    margin-top: 15px;
+    margin-right: 115px;
+    float: right;
+}
+.image_block{
+    float: left;
+}
+.select{
+    border: 2px solid #ccffaa;
+    width: 1334px;
+    height: 85px;
+    text-align: center;
+}
+.SizePhoto{
+    margin-top: 10px;
+    float: left;
+    margin-left: 515px;
+    height: 30px;
+    color: #1C86DC;
+}
+.buttonSort{
+    background-color: #AEE6EC;
+    border-radius: 10px;
+    border: none;
+    height: 30px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-right: 380px;
+}
+.sort{
+    color: #1C86DC;
+    font-family: cursive;
+
+}
+
